@@ -27,5 +27,5 @@ Socials
 <b>My GitHub Stats</b>
 ------------------------------------------------
 ![OMPRATIK's Stats](https://github-readme-stats.vercel.app/api?username=OMPRATIK&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![OMPRATIK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OMPRATIK&theme=dark&hide_border=true)
+
 ![OMPRATIK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OMPRATIK&theme=dark&show_icons=true&hide_border=true&layout=compact)
